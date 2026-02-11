@@ -1,0 +1,47 @@
+[
+    {
+        "transaction_id": "T001",
+        "date": "2026-02-11",
+        "customer": {
+            "customer_id": "C123",
+            "name": "Alice",
+            "address": {
+                "street": "123 Main St",
+                "city": "Metropolis",
+                "zip": "12345"
+            }
+        },
+        "items": [
+            {
+                "item_id": "I001",
+                "description": "Widget",
+                "price": 19.99
+            },
+            {
+                "item_id": "I002",
+                "description": "Gadget",
+                "price": 29.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "T002",
+        "date": "2026-02-11",
+        "customer": {
+            "customer_id": "C456",
+            "name": "Bob",
+            "address": {
+                "street": "456 Elm St",
+                "city": "Gotham",
+                "zip": "67890"
+            }
+        },
+        "items": [
+            {
+                "item_id": "I003",
+                "description": "Thingamajig",
+                "price": 9.99
+            }
+        ]
+    }
+]
