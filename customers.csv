@@ -1,0 +1,51 @@
+customer_id,name,age,city
+1001,Customer_1001,56,Dallas
+1002,Customer_1002,46,Dallas
+1003,Customer_1003,32,Dallas
+1004,Customer_1004,60,Seattle
+1005,Customer_1005,25,Chicago
+1006,Customer_1006,38,New York
+1007,Customer_1007,56,Dallas
+1008,Customer_1008,36,Boston
+1009,Customer_1009,40,Dallas
+1010,Customer_1010,28,Boston
+1011,Customer_1011,28,Boston
+1012,Customer_1012,41,Dallas
+1013,Customer_1013,53,Seattle
+1014,Customer_1014,57,Boston
+1015,Customer_1015,41,Boston
+1016,Customer_1016,20,Dallas
+1017,Customer_1017,39,Boston
+1018,Customer_1018,19,Boston
+1019,Customer_1019,41,Dallas
+1020,Customer_1020,61,Dallas
+1021,Customer_1021,47,New York
+1022,Customer_1022,55,Seattle
+1023,Customer_1023,19,Seattle
+1024,Customer_1024,38,Boston
+1025,Customer_1025,50,Seattle
+1026,Customer_1026,29,Boston
+1027,Customer_1027,39,New York
+1028,Customer_1028,61,Dallas
+1029,Customer_1029,42,Dallas
+1030,Customer_1030,44,Dallas
+1031,Customer_1031,59,Seattle
+1032,Customer_1032,45,New York
+1033,Customer_1033,33,Seattle
+1034,Customer_1034,32,Seattle
+1035,Customer_1035,64,New York
+1036,Customer_1036,61,New York
+1037,Customer_1037,20,New York
+1038,Customer_1038,54,New York
+1039,Customer_1039,24,Dallas
+1040,Customer_1040,38,Chicago
+1041,Customer_1041,26,Chicago
+1042,Customer_1042,56,New York
+1043,Customer_1043,35,Chicago
+1044,Customer_1044,21,Chicago
+1045,Customer_1045,42,New York
+1046,Customer_1046,31,Chicago
+1047,Customer_1047,26,Seattle
+1048,Customer_1048,43,Boston
+1049,Customer_1049,19,Boston
+1050,Customer_1050,37,New York

@@ -1,0 +1,62 @@
+[
+  {
+    "customer_id": "CUST001",
+    "customer_name": "Jamaai Babu",
+    "source": "Call",
+    "address": {
+      "add1": "6053 Painswick Dr",
+      "add2": "",
+      "city": "Aubrey",
+      "state": "TX",
+      "zip": ""
+    }
+  },
+  {
+    "customer_id": "CUST002",
+    "customer_name": "Ganga Pardes",
+    "source": "Email",
+    "address": {
+      "add1": "4220 Petunia Way ",
+      "add2": "",
+      "city": "Prosper",
+      "state": "TX",
+      "zip": ""
+    }
+  },
+  {
+    "customer_id": "CUST003",
+    "customer_name": "Raj Aaryan",
+    "source": "Social",
+    "address": {
+      "add1": "6901 Hansell Rd",
+      "add2": "",
+      "city": "Plano",
+      "state": "TX",
+      "zip": ""
+    }
+  },
+  {
+    "customer_id": "CUST004",
+    "customer_name": "Shashi Tharoor",
+    "source": "Call",
+    "address": {
+      "add1": "13048 Zion Dr",
+      "add2": "",
+      "city": "Providence Village",
+      "state": "TX",
+      "zip": ""
+    }
+  },
+  {
+    "customer_id": "CUST005",
+    "customer_name": "Biswa Karma",
+    "source": "Email",
+    "address": {
+      "add1": "4020 Agatha Ct",
+      "add2": "",
+      "city": "Aubrey",
+      "state": "TX",
+      "zip": ""
+    }
+  }
+]
